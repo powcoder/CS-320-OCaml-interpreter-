@@ -1,0 +1,32 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+Fun rete x
+Push <error>
+Return
+FunEnd
+Pop
+Begin
+Push <unit>
+PushB <true>
+Push <unit>
+PushB <false>
+PushN rete
+PushI 7
+Call
+Pop
+Pop
+Pop
+End
+Begin
+Push <error>
+PushB <true>
+PushN rete
+Push <error>
+Call
+Pop
+Pop
+Pop
+End
+Quit

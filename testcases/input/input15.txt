@@ -1,0 +1,29 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+Fun test x
+PushN f
+PushN x
+PushN x
+Add
+Swap
+Bind
+Fun test1 b
+PushN b
+PushN b
+Mul
+Return
+FunEnd
+PushN test1
+PushN f
+Call
+Return
+FunEnd
+PushN test
+PushI 33
+Call
+PushN test1
+PushI 125
+Call
+Quit

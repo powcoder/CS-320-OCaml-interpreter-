@@ -1,0 +1,14 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+<unit>
+<error>
+<error>
+id
+let x = (List.map (fun y -> ( + ) y y) [0; 1; 2; 3; 4; 5])
+<unit>
+<unit>
+let x = (List.map (fun y -> ( + ) y y) [0; 1; 2; 3; 4; 5])
+<unit>
+<unit>
